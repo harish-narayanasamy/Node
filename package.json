@@ -10,13 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/harish-narayanasamy/Node.git"
   },
-  "author": "",
+  "author": "H",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/harish-narayanasamy/Node/issues"
   },
   "homepage": "https://github.com/harish-narayanasamy/Node#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "winston": "^3.2.1"
   }
 }
