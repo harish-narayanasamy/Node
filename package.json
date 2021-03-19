@@ -1,0 +1,31 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harish-narayanasamy/Node.git"
+  },
+  "author": "H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harish-narayanasamy/Node/issues"
+  },
+  "homepage": "https://github.com/harish-narayanasamy/Node#readme",
+  "dependencies": {
+    "config": "^3.2.4",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "joi": "^13.1.0",
+    "lodash": "^4.17.15",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.4",
+    "pug": "^2.0.4",
+    "winston": "^3.2.1"
+  }
+}
